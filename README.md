@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=zidekk-daun&color=blueviolet)
 
-Hello there, its injector doing on [Xeno](https://discord.gg/xeno-now), and if i think to do on other dll, i say in Releases page.
+Hello there, its injector doing on Velocity, and if i think to do on other dll, i say in Releases page.
 If u need to help, or questions - my Discord: [kitikatich](https://discordapp.com/users/958802222811070545/)
 
 -- TO USE THIS INJECTOR DOWNLOAD [BLOXSTRAP](https://github.com/bloxstraplabs/bloxstrap), and open with Bloxstrap, and Inject injector.  
@@ -15,8 +15,10 @@ If u need to help, or questions - my Discord: [kitikatich](https://discordapp.co
 (P.S you can join my Telegram [Channel](https://t.me/ubogiyinject), here injector if in release dosnt shows)
 
 
-![изображение](https://github.com/user-attachments/assets/33431d42-58f9-4315-9901-38b9636ce084)
-![изображение](https://github.com/user-attachments/assets/207fd4d0-f519-4fbc-97f6-ba0773f55799)
+![изображение](https://github.com/user-attachments/assets/41b12b6f-9b7b-4043-ab66-b13daff8dcfb)
+![изображение](https://github.com/user-attachments/assets/29c9fe56-b6eb-4829-9c15-ec14d7863da4)
+![изображение](https://github.com/user-attachments/assets/99cd3ae7-0235-4116-bf19-2e8115bdaa16)
+
 
 
 
